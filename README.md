@@ -1,5 +1,3 @@
----
-
 <a name="start-building"></a>
 <br>
 <p align="center">
